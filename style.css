@@ -1,0 +1,1090 @@
+.about-us-avam {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.about-us-avam .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 4385px;
+  position: relative;
+}
+
+.about-us-avam .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 1814px;
+  top: 0;
+  left: 0;
+}
+
+.about-us-avam .banffwedge {
+  position: absolute;
+  width: 1440px;
+  height: 942px;
+  top: 0;
+  left: 0;
+}
+
+.about-us-avam .rectangle {
+  position: absolute;
+  width: 474px;
+  height: 210px;
+  top: 355px;
+  left: 106px;
+  background-color: #43c59e;
+  border-radius: 65px;
+  border: 4px solid;
+  border-color: #7393b3;
+}
+
+.about-us-avam .text-wrapper {
+  position: absolute;
+  width: 419px;
+  top: 405px;
+  left: 133px;
+  font-family: "Rajdhani-Bold", Helvetica;
+  font-weight: 700;
+  color: #020817;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .frame {
+  position: absolute;
+  width: 1437px;
+  height: 933px;
+  top: 881px;
+  left: 0;
+  background-color: #f7f8f980;
+}
+
+.about-us-avam .overlap-group {
+  position: absolute;
+  width: 706px;
+  height: 301px;
+  top: 124px;
+  left: 53px;
+}
+
+.about-us-avam .p {
+  position: absolute;
+  width: 696px;
+  top: 0;
+  left: 4px;
+  font-family: "Rajdhani-Bold", Helvetica;
+  font-weight: 700;
+  color: #43c59e;
+  font-size: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .image {
+  position: absolute;
+  width: 8px;
+  height: 139px;
+  top: 109px;
+  left: 0;
+}
+
+.about-us-avam .text-wrapper-2 {
+  position: absolute;
+  width: 688px;
+  top: 109px;
+  left: 18px;
+  font-family: "Rajdhani-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .overlap-2 {
+  position: absolute;
+  width: 701px;
+  height: 208px;
+  top: 586px;
+  left: 53px;
+}
+
+.about-us-avam .text-wrapper-3 {
+  position: absolute;
+  width: 696px;
+  top: 0;
+  left: 3px;
+  font-family: "Rajdhani-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .img {
+  position: absolute;
+  width: 6px;
+  height: 110px;
+  top: 98px;
+  left: 0;
+}
+
+.about-us-avam .text-wrapper-4 {
+  position: absolute;
+  width: 688px;
+  top: 106px;
+  left: 13px;
+  font-family: "Rajdhani-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .image-2 {
+  position: absolute;
+  width: 541px;
+  height: 366px;
+  top: 115px;
+  left: 866px;
+  object-fit: cover;
+}
+
+.about-us-avam .image-3 {
+  position: absolute;
+  width: 535px;
+  height: 322px;
+  top: 587px;
+  left: 862px;
+}
+
+.about-us-avam .image-4 {
+  position: absolute;
+  width: 358px;
+  height: 21px;
+  top: 2024px;
+  left: 534px;
+}
+
+.about-us-avam .text-wrapper-5 {
+  position: absolute;
+  width: 320px;
+  top: 1932px;
+  left: 553px;
+  font-family: "Rajdhani-Bold", Helvetica;
+  font-weight: 700;
+  color: #0f1815;
+  font-size: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.about-us-avam .text-wrapper-6 {
+  position: absolute;
+  width: 857px;
+  top: 2071px;
+  left: 291px;
+  font-family: "Rajdhani-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 31px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .image-5 {
+  position: absolute;
+  width: 117px;
+  height: 117px;
+  top: 2264px;
+  left: 661px;
+  object-fit: cover;
+}
+
+.about-us-avam .footer {
+  position: absolute;
+  width: 1476px;
+  height: 429px;
+  top: 3956px;
+  left: -36px;
+  background-color: #f3f3f3;
+}
+
+.about-us-avam .image-6 {
+  position: absolute;
+  width: 839px;
+  height: 305px;
+  top: 37px;
+  left: 324px;
+}
+
+.about-us-avam .vector {
+  position: absolute;
+  width: 1434px;
+  height: 15px;
+  top: -3px;
+  left: 42px;
+}
+
+.about-us-avam .download-app {
+  position: absolute;
+  width: 1306px;
+  height: 526px;
+  top: 3345px;
+  left: 67px;
+}
+
+.about-us-avam .overlap-group-2 {
+  position: absolute;
+  width: 437px;
+  height: 526px;
+  top: 0;
+  left: 664px;
+  background-color: #43c59e;
+  border-radius: 218.5px / 263px;
+}
+
+.about-us-avam .image-7 {
+  position: absolute;
+  width: 218px;
+  height: 420px;
+  top: 42px;
+  left: 110px;
+}
+
+.about-us-avam .vector-2 {
+  position: absolute;
+  width: 30px;
+  height: 38px;
+  top: 42px;
+  left: 299px;
+}
+
+.about-us-avam .vector-3 {
+  position: absolute;
+  width: 37px;
+  height: 29px;
+  top: 41px;
+  left: 292px;
+}
+
+.about-us-avam .vector-4 {
+  position: absolute;
+  width: 19px;
+  height: 24px;
+  top: 47px;
+  left: 310px;
+}
+
+.about-us-avam .vector-5 {
+  position: absolute;
+  width: 16px;
+  height: 19px;
+  top: 47px;
+  left: 312px;
+}
+
+.about-us-avam .vector-6 {
+  position: absolute;
+  width: 29px;
+  height: 26px;
+  top: 41px;
+  left: 301px;
+}
+
+.about-us-avam .vector-7 {
+  position: absolute;
+  width: 29px;
+  height: 24px;
+  top: 41px;
+  left: 301px;
+}
+
+.about-us-avam .vector-8 {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 43px;
+  left: 309px;
+}
+
+.about-us-avam .vector-9 {
+  position: absolute;
+  width: 24px;
+  height: 20px;
+  top: 42px;
+  left: 305px;
+}
+
+.about-us-avam .vector-10 {
+  position: absolute;
+  width: 24px;
+  height: 19px;
+  top: 42px;
+  left: 306px;
+}
+
+.about-us-avam .vector-11 {
+  position: absolute;
+  width: 22px;
+  height: 18px;
+  top: 43px;
+  left: 308px;
+}
+
+.about-us-avam .vector-12 {
+  position: absolute;
+  width: 16px;
+  height: 12px;
+  top: 42px;
+  left: 315px;
+}
+
+.about-us-avam .vector-13 {
+  position: absolute;
+  width: 16px;
+  height: 11px;
+  top: 41px;
+  left: 314px;
+}
+
+.about-us-avam .vector-14 {
+  position: absolute;
+  width: 15px;
+  height: 10px;
+  top: 41px;
+  left: 315px;
+}
+
+.about-us-avam .vector-15 {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 50px;
+  left: 323px;
+}
+
+.about-us-avam .vector-16 {
+  position: absolute;
+  width: 12px;
+  height: 13px;
+  top: 50px;
+  left: 319px;
+}
+
+.about-us-avam .vector-17 {
+  position: absolute;
+  width: 6px;
+  height: 11px;
+  top: 51px;
+  left: 324px;
+}
+
+.about-us-avam .vector-18 {
+  position: absolute;
+  width: 12px;
+  height: 8px;
+  top: 47px;
+  left: 319px;
+}
+
+.about-us-avam .vector-19 {
+  position: absolute;
+  width: 13px;
+  height: 9px;
+  top: 45px;
+  left: 314px;
+}
+
+.about-us-avam .vector-20 {
+  position: absolute;
+  width: 10px;
+  height: 9px;
+  top: 43px;
+  left: 314px;
+}
+
+.about-us-avam .vector-21 {
+  position: absolute;
+  width: 16px;
+  height: 11px;
+  top: 41px;
+  left: 309px;
+}
+
+.about-us-avam .vector-22 {
+  position: absolute;
+  width: 13px;
+  height: 7px;
+  top: 41px;
+  left: 307px;
+}
+
+.about-us-avam .vector-23 {
+  position: absolute;
+  width: 34px;
+  height: 32px;
+  top: 42px;
+  left: 110px;
+}
+
+.about-us-avam .vector-24 {
+  position: absolute;
+  width: 31px;
+  height: 32px;
+  top: 41px;
+  left: 109px;
+}
+
+.about-us-avam .vector-25 {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 42px;
+  left: 109px;
+}
+
+.about-us-avam .vector-26 {
+  position: absolute;
+  width: 29px;
+  height: 31px;
+  top: 41px;
+  left: 108px;
+}
+
+.about-us-avam .vector-27 {
+  position: absolute;
+  width: 29px;
+  height: 27px;
+  top: 41px;
+  left: 109px;
+}
+
+.about-us-avam .vector-28 {
+  position: absolute;
+  width: 26px;
+  height: 27px;
+  top: 41px;
+  left: 109px;
+}
+
+.about-us-avam .vector-29 {
+  position: absolute;
+  width: 25px;
+  height: 23px;
+  top: 42px;
+  left: 109px;
+}
+
+.about-us-avam .vector-30 {
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  top: 44px;
+  left: 109px;
+}
+
+.about-us-avam .vector-31 {
+  position: absolute;
+  width: 23px;
+  height: 21px;
+  top: 42px;
+  left: 109px;
+}
+
+.about-us-avam .vector-32 {
+  position: absolute;
+  width: 22px;
+  height: 20px;
+  top: 41px;
+  left: 109px;
+}
+
+.about-us-avam .vector-33 {
+  position: absolute;
+  width: 21px;
+  height: 19px;
+  top: 41px;
+  left: 109px;
+}
+
+.about-us-avam .vector-34 {
+  position: absolute;
+  width: 18px;
+  height: 17px;
+  top: 43px;
+  left: 109px;
+}
+
+.about-us-avam .vector-35 {
+  position: absolute;
+  width: 21px;
+  height: 17px;
+  top: 41px;
+  left: 107px;
+}
+
+.about-us-avam .vector-36 {
+  position: absolute;
+  width: 14px;
+  height: 11px;
+  top: 44px;
+  left: 112px;
+}
+
+.about-us-avam .vector-37 {
+  position: absolute;
+  width: 16px;
+  height: 13px;
+  top: 42px;
+  left: 111px;
+}
+
+.about-us-avam .vector-38 {
+  position: absolute;
+  width: 15px;
+  height: 13px;
+  top: 44px;
+  left: 110px;
+}
+
+.about-us-avam .vector-39 {
+  position: absolute;
+  width: 16px;
+  height: 13px;
+  top: 42px;
+  left: 110px;
+}
+
+.about-us-avam .vector-40 {
+  position: absolute;
+  width: 10px;
+  height: 12px;
+  top: 45px;
+  left: 110px;
+}
+
+.about-us-avam .vector-41 {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 45px;
+  left: 110px;
+}
+
+.about-us-avam .vector-42 {
+  position: absolute;
+  width: 15px;
+  height: 11px;
+  top: 41px;
+  left: 108px;
+}
+
+.about-us-avam .vector-43 {
+  position: absolute;
+  width: 19px;
+  height: 16px;
+  top: 41px;
+  left: 107px;
+}
+
+.about-us-avam .vector-44 {
+  position: absolute;
+  width: 8px;
+  height: 3px;
+  top: 42px;
+  left: 119px;
+}
+
+.about-us-avam .vector-45 {
+  position: absolute;
+  width: 36px;
+  height: 37px;
+  top: 426px;
+  left: 109px;
+}
+
+.about-us-avam .vector-46 {
+  position: absolute;
+  width: 8px;
+  height: 29px;
+  top: 423px;
+  left: 108px;
+}
+
+.about-us-avam .vector-47 {
+  position: absolute;
+  width: 17px;
+  height: 39px;
+  top: 431px;
+  left: 106px;
+}
+
+.about-us-avam .vector-48 {
+  position: absolute;
+  width: 8px;
+  height: 13px;
+  top: 429px;
+  left: 105px;
+}
+
+.about-us-avam .vector-49 {
+  position: absolute;
+  width: 18px;
+  height: 37px;
+  top: 429px;
+  left: 106px;
+}
+
+.about-us-avam .vector-50 {
+  position: absolute;
+  width: 16px;
+  height: 28px;
+  top: 438px;
+  left: 110px;
+}
+
+.about-us-avam .vector-51 {
+  position: absolute;
+  width: 32px;
+  height: 30px;
+  top: 437px;
+  left: 109px;
+}
+
+.about-us-avam .vector-52 {
+  position: absolute;
+  width: 41px;
+  height: 44px;
+  top: 426px;
+  left: 295px;
+}
+
+.about-us-avam .vector-53 {
+  position: absolute;
+  width: 17px;
+  height: 13px;
+  top: 43px;
+  left: 102px;
+}
+
+.about-us-avam .vector-54 {
+  position: absolute;
+  width: 24px;
+  height: 15px;
+  top: 38px;
+  left: 103px;
+}
+
+.about-us-avam .vector-55 {
+  position: absolute;
+  width: 16px;
+  height: 14px;
+  top: 39px;
+  left: 316px;
+}
+
+.about-us-avam .text-wrapper-7 {
+  position: absolute;
+  top: 43px;
+  left: 2px;
+  font-family: "Rajdhani-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 52.9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .vector-56 {
+  position: absolute;
+  width: 6px;
+  height: 158px;
+  top: 134px;
+  left: -2px;
+}
+
+.about-us-avam .image-8 {
+  position: absolute;
+  width: 527px;
+  height: 158px;
+  top: 134px;
+  left: 15px;
+  object-fit: cover;
+}
+
+.about-us-avam .image-9 {
+  position: absolute;
+  width: 145px;
+  height: 145px;
+  top: 303px;
+  left: 2px;
+  object-fit: cover;
+}
+
+.about-us-avam .image-10 {
+  position: absolute;
+  width: 135px;
+  height: 71px;
+  top: 292px;
+  left: 147px;
+}
+
+.about-us-avam .image-11 {
+  position: absolute;
+  width: 134px;
+  height: 44px;
+  top: 384px;
+  left: 148px;
+  object-fit: cover;
+}
+
+.about-us-avam .image-12 {
+  position: absolute;
+  width: 180px;
+  height: 60px;
+  top: 192px;
+  left: 1126px;
+  object-fit: cover;
+}
+
+.about-us-avam .rectangle-2 {
+  position: absolute;
+  width: 3px;
+  height: 25px;
+  top: 4476px;
+  left: 810px;
+  background-color: #d9d9d9;
+}
+
+.about-us-avam .safety {
+  position: absolute;
+  width: 1440px;
+  height: 223px;
+  top: 2433px;
+  left: -3px;
+  background-color: #43c59e;
+}
+
+.about-us-avam .text-wrapper-8 {
+  position: absolute;
+  top: 54px;
+  left: 441px;
+  font-family: "Rajdhani-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #fffcfc;
+  font-size: 52.9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .book-now-btn {
+  position: absolute;
+  width: 172px;
+  height: 44px;
+  top: 147px;
+  left: 634px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.about-us-avam .text-wrapper-9 {
+  position: absolute;
+  top: 4px;
+  left: 31px;
+  font-family: "Rajdhani-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #43c59e;
+  font-size: 26.9px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .container {
+  position: absolute;
+  width: 1458px;
+  height: 580px;
+  top: 2656px;
+  left: 2px;
+  background-color: #f6f7f9;
+}
+
+.about-us-avam .overlap-3 {
+  position: relative;
+  width: 22751px;
+  height: 5487px;
+  top: -3204px;
+  left: -11322px;
+}
+
+.about-us-avam .paragraph {
+  display: flex;
+  flex-direction: column;
+  max-width: var(--kzmn71xkrbmgwtlrmibb-lite-vusercontent-net-width-960);
+  width: 960px;
+  align-items: center;
+  gap: var(--kzmn71xkrbmgwtlrmibb-lite-vusercontent-net-line-height-20);
+  position: absolute;
+  top: 3298px;
+  left: 11566px;
+}
+
+.about-us-avam .heading-why {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Rajdhani-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 45px;
+  white-space: nowrap;
+}
+
+.about-us-avam .frame-2 {
+  position: absolute;
+  width: 1012px;
+  height: 364px;
+  top: 3393px;
+  left: 11371px;
+}
+
+.about-us-avam .background-border {
+  position: absolute;
+  width: 318px;
+  height: 273px;
+  top: 0;
+  left: -20px;
+  background-color: #43c59e33;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #43c59e8c;
+  box-shadow: 1px 2px 10px #00000012;
+  gap: var(--kzmn71xkrbmgwtlrmibb-lite-vusercontent-net-item-spacing-27-5);
+}
+
+.about-us-avam .overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 31px;
+  left: 31px;
+  width: 60px;
+  height: 60px;
+  background-color: #43c59e4c;
+  border-radius: 10px;
+}
+
+.about-us-avam .fluent-color-people {
+  position: relative;
+  width: 46px;
+  height: 46px;
+}
+
+.about-us-avam .heading {
+  display: flex;
+  flex-direction: column;
+  width: 287px;
+  align-items: flex-start;
+  position: absolute;
+  top: 116px;
+  left: 31px;
+}
+
+.about-us-avam .text-wrapper-10 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Rajdhani-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us-avam .text-wrapper-11 {
+  position: absolute;
+  width: 246px;
+  height: 50px;
+  top: 178px;
+  left: 36px;
+  font-family: "Rajdhani-Regular", Helvetica;
+  font-weight: 400;
+  color: #71717a;
+  font-size: 17.5px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.about-us-avam .background-border-2 {
+  display: flex;
+  flex-direction: column;
+  width: 317px;
+  align-items: flex-start;
+  gap: var(--kzmn71xkrbmgwtlrmibb-lite-vusercontent-net-item-spacing-29-5);
+  padding: 31px 35.58px 86.5px 31px;
+  top: 0;
+  left: 328px;
+  height: 273px;
+  position: absolute;
+  background-color: #43c59e33;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #43c59e8c;
+  box-shadow: 1px 2px 10px #00000012;
+}
+
+.about-us-avam .overlay-2 {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  background-color: #43c59e4c;
+  border-radius: 10px;
+}
+
+.about-us-avam .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  font-family: "Rajdhani-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #09090b;
+  font-size: 30px;
+  letter-spacing: -0.75px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.about-us-avam .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-bottom: -17.50px;
+  margin-right: -15.58px;
+  font-family: "Rajdhani-Regular", Helvetica;
+  font-weight: 400;
+  color: #71717a;
+  font-size: 17.5px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.about-us-avam .background-border-3 {
+  display: flex;
+  flex-direction: column;
+  width: 318px;
+  align-items: flex-start;
+  gap: var(--kzmn71xkrbmgwtlrmibb-lite-vusercontent-net-item-spacing-29-5);
+  padding: 31px 33.8px 61.5px 31px;
+  top: 0;
+  left: 675px;
+  height: 273px;
+  position: absolute;
+  background-color: #43c59e33;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #43c59e8c;
+  box-shadow: 1px 2px 10px #00000012;
+}
+
+.about-us-avam .text-wrapper-14 {
+  position: relative;
+  width: 253px;
+  margin-bottom: -17.50px;
+  font-family: "Rajdhani-Regular", Helvetica;
+  font-weight: 400;
+  color: #71717a;
+  font-size: 17.5px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.about-us-avam .background-border-4 {
+  width: 318px;
+  top: 3393px;
+  left: 12394px;
+  height: 273px;
+  position: absolute;
+  background-color: #43c59e33;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #43c59e8c;
+  box-shadow: 1px 2px 10px #00000012;
+  gap: var(--kzmn71xkrbmgwtlrmibb-lite-vusercontent-net-item-spacing-29-5);
+}
+
+.about-us-avam .emojione-handshake {
+  position: relative;
+  width: 43px;
+  height: 43px;
+}
+
+.about-us-avam .heading-peace-of {
+  position: absolute;
+  height: 30px;
+  top: 120px;
+  left: 31px;
+  font-family: "Rajdhani-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #09090b;
+  font-size: 30px;
+  letter-spacing: -0.75px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.about-us-avam .text-wrapper-15 {
+  position: absolute;
+  width: 260px;
+  height: 50px;
+  top: 181px;
+  left: 31px;
+  font-family: "Rajdhani-Regular", Helvetica;
+  font-weight: 400;
+  color: #71717a;
+  font-size: 17.5px;
+  letter-spacing: 0;
+  line-height: 25px;
+}
+
+.about-us-avam .tabler-car-filled {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 3433px;
+  left: 11738px;
+}
+
+.about-us-avam .grommet-icons-money {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 3433px;
+  left: 12085px;
+}
+
+.about-us-avam .section-avam {
+  position: absolute;
+  width: 22751px;
+  height: 5487px;
+  top: 0;
+  left: 0;
+  border: 9px solid;
+  border-color: #ffffff;
+}
